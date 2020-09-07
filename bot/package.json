@@ -1,0 +1,27 @@
+{
+  "name": "lickpay-test-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguraan/lickpay-test-bot.git"
+  },
+  "author": "aguraan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aguraan/lickpay-test-bot/issues"
+  },
+  "homepage": "https://github.com/aguraan/lickpay-test-bot#readme"
+}
